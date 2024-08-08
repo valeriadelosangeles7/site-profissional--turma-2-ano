@@ -1,7 +1,7 @@
 .principal {
     display: flex;
-    padding: 20px;
+    padding: 50px;
     justify-content: space-around;
-    margin: 20px;
+    margin: 50px;
     background-color: rgba(172, 0, 172, 0.377);
   }
