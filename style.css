@@ -1,0 +1,7 @@
+.principal {
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    margin: 20px;
+    background-color: rgba(172, 0, 172, 0.377);
+  }
